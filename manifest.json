@@ -5,7 +5,7 @@
 
   "name": "Quick QR and Shortcode for any Website.",
   "description": "Generate Qr, shortlink for current page. Open any webpage, video, Playstore app, App-Store(IOS) directly to your Smartphone.",
-  "version": "1.8",
+  "version": "2.0",
 
   "browser_action": {
     "default_icon": "QR-Scan.png",
